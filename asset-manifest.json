@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Themiddleclassmonk/text_utilities_app.git/static/css/main.f855e6bc.css",
-    "main.js": "/Themiddleclassmonk/text_utilities_app.git/static/js/main.85516d4d.js",
-    "static/js/787.5fe9f79c.chunk.js": "/Themiddleclassmonk/text_utilities_app.git/static/js/787.5fe9f79c.chunk.js",
-    "index.html": "/Themiddleclassmonk/text_utilities_app.git/index.html",
-    "main.f855e6bc.css.map": "/Themiddleclassmonk/text_utilities_app.git/static/css/main.f855e6bc.css.map",
-    "main.85516d4d.js.map": "/Themiddleclassmonk/text_utilities_app.git/static/js/main.85516d4d.js.map",
-    "787.5fe9f79c.chunk.js.map": "/Themiddleclassmonk/text_utilities_app.git/static/js/787.5fe9f79c.chunk.js.map"
+    "main.css": "/text_utilities_app/static/css/main.f855e6bc.css",
+    "main.js": "/text_utilities_app/static/js/main.75788588.js",
+    "static/js/787.5fe9f79c.chunk.js": "/text_utilities_app/static/js/787.5fe9f79c.chunk.js",
+    "index.html": "/text_utilities_app/index.html",
+    "main.f855e6bc.css.map": "/text_utilities_app/static/css/main.f855e6bc.css.map",
+    "main.75788588.js.map": "/text_utilities_app/static/js/main.75788588.js.map",
+    "787.5fe9f79c.chunk.js.map": "/text_utilities_app/static/js/787.5fe9f79c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.85516d4d.js"
+    "static/js/main.75788588.js"
   ]
 }
